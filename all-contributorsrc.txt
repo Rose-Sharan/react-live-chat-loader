@@ -1,0 +1,133 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "FateXRebirth",
+      "name": "Kevin Peng",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11188616?v=4",
+      "profile": "https://github.com/FateXRebirth",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AshKyd",
+      "name": "Ash Kyd",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/49600?v=4",
+      "profile": "http://ash.ms",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mirshko",
+      "name": "Jeff Reiner",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8116716?v=4",
+      "profile": "https://reiner.design",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "gazpachu",
+      "name": "Joan Mira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1721288?v=4",
+      "profile": "http://joanmira.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "elmoeleven",
+      "name": "Nathan Collman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1560770?v=4",
+      "profile": "https://github.com/elmoeleven",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jaska120",
+      "name": "Jaakko Mustalahti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23189620?v=4",
+      "profile": "https://github.com/jaska120",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "motiko",
+      "name": "Moti Korets",
+      "avatar_url": "https://avatars.githubusercontent.com/u/875618?v=4",
+      "profile": "https://motiko.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "stramel",
+      "name": "Michael Stramel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/855184?v=4",
+      "profile": "https://github.com/stramel",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "myleslinder",
+      "name": "Myles Linder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4735451?v=4",
+      "profile": "https://github.com/myleslinder",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lauGutierrezz",
+      "name": "Laura Gutiérrez López de la Franca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52488696?v=4",
+      "profile": "https://github.com/lauGutierrezz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "38ri581oq480",
+      "name": "Kirill Vakalov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64654807?v=4",
+      "profile": "https://github.com/38ri581oq480",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "luisrudge",
+      "name": "Luís Rudge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/941075?v=4",
+      "profile": "http://luisrudge.net",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "davidhu2000",
+      "name": "David Hu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15827041?v=4",
+      "profile": "https://www.davidhu.io/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "react-live-chat-loader",
+  "projectOwner": "calibreapp",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

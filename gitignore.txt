@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+*.log
+/tmp
+/dist
+/module
+website/.next
+website/node_modules
+website/out

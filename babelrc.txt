@@ -1,0 +1,59 @@
+{
+  "env": {
+    "cjs": {
+      "presets": [
+        "@babel/preset-typescript",
+        [
+          "@babel/preset-env",
+          {
+            "targets": {
+              "browsers": "last 2 versions"
+            }
+          }
+        ],
+        "@babel/react"
+      ],
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": ["./src"],
+            "alias": {
+              "providers": "./src/providers",
+              "hooks": "./src/hooks"
+            },
+            "extensions": [".ts", ".tsx"]
+          }
+        ]
+      ]
+    },
+    "module": {
+      "presets": [
+        "@babel/preset-typescript",
+        [
+          "@babel/preset-env",
+          {
+            "targets": {
+              "browsers": "last 2 versions"
+            },
+            "modules": false
+          }
+        ],
+        "@babel/react"
+      ],
+      "plugins": [
+        [
+          "module-resolver",
+          {
+            "root": ["./src"],
+            "alias": {
+              "providers": "./src/providers",
+              "hooks": "./src/hooks"
+            },
+            "extensions": [".ts", ".tsx"]
+          }
+        ]
+      ]
+    }
+  }
+}
